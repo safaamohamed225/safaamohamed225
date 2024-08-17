@@ -14,7 +14,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=safaamohamed225&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Connected:
-<p align="left">
+
  </div>
 <div align="center"> 
   <a href="mailto:safaa.m.ibrahem@gmail.com">
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-</p> 
+
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>:
  ![AdvancedC#](https://img.shields.io/badge/-Advanced%20CSharp-%23E34F26.svg?style=for-the-badge&logo=csharp&logoColor=white) ![OOP](https://img.shields.io/badge/-oop-%23E34F26.svg?style=for-the-badge&logo=oop&logoColor=white)
