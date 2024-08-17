@@ -19,7 +19,7 @@
   <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="safalinked" height="30" width="40" />
 </a>
   <a href="https://www.gmail.com/in/safaa.mohamed.ibrahem@gmail.com/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="safalinked" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/gmail-alt.svg" alt="safalinked" height="30" width="40" />
 </a>
 </p> 
 
