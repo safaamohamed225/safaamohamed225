@@ -15,7 +15,8 @@
 
 ## 🌐 Connected:
 <p align="left">
-<a href="https://www.linkedin.com/in/safa-mohamed-dotnet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="am412002" height="30" width="40" /></a></p> 
+<a href="https://www.linkedin.com/in/safa-mohamed-dotnet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="am412002" height="30" width="40" /> <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="am412002" height="30" width="40" /></a>
+</p> 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>:
  ![AdvancedC#](https://img.shields.io/badge/-Advanced%20CSharp-%23E34F26.svg?style=for-the-badge&logo=csharp&logoColor=white) ![OOP](https://img.shields.io/badge/-oop-%23E34F26.svg?style=for-the-badge&logo=oop&logoColor=white)
