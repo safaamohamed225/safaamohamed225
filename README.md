@@ -13,6 +13,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=safaamohamed225&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌐 Socials:
+## 🌐 Connected:
 <p align="left">
 <a href="https://www.linkedin.com/in/safa-mohamed-dotnet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="am412002" height="30" width="40" /></a></p> 
