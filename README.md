@@ -15,9 +15,15 @@
 
 ## 🌐 Connected:
 <p align="left">
-<a href="https://www.linkedin.com/in/safa-mohamed-dotnet/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="safalinked" height="30" width="40" />
-</a>
+ </div>
+<div align="center"> 
+  <a href="mailto:safaa.m.ibrahem@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="v" target="_blank">
+    <img shttps://www.linkedin.com/in/safa-mohamed-dotnet/c="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  </a>
+</div>
 </p> 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>:
