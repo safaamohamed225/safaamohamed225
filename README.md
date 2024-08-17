@@ -33,3 +33,11 @@
 ![Solid Principles](https://img.shields.io/badge/-Solid%20Principles-%23Clojure?style=for-the-badge&logo=solidprinciple&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/-Clean%20Code-%23Clojure?style=for-the-badge&logo=cleancode&logoColor=white)
 
+
+# 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safaamohamed225&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safaamohamed225&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safaamohamed225&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
+
