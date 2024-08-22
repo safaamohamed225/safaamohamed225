@@ -27,14 +27,16 @@
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>:
- ![AdvancedC#](https://img.shields.io/badge/-Advanced%20CSharp-%23E34F26.svg?style=for-the-badge&logo=csharp&logoColor=white) ![OOP](https://img.shields.io/badge/-oop-%23E34F26.svg?style=for-the-badge&logo=oop&logoColor=white)
+ ![AdvancedC#]![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+ ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+ ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=api&logoColor=white)
   ![MVC CORE](https://img.shields.io/badge/-MVC%20CORE-%23E34F26.svg?style=for-the-badge&logo=mvccore&logoColor=white) 
    ![MVC FRAMEWORK](https://img.shields.io/badge/-MVC%20FRAMEWORK-%23E34F26.svg?style=for-the-badge&logo=mvcframework&logoColor=white) 
      ![WEB API](https://img.shields.io/badge/-WEB%20API-%23E34F26.svg?style=for-the-badge&logo=webapi&logoColor=white)
      ![LINQ](https://img.shields.io/badge/-LINQ-%23E34F26.svg?style=for-the-badge&logo=linq&logoColor=white)
        ![Entity Framework](https://img.shields.io/badge/-ENTITY%20FRAMEWORK-%23E34F26.svg?style=for-the-badge&logo=entityframework&logoColor=white)
  ![C](https://img.shields.io/badge/-C-%23E34F26.svg?style=for-the-badge&logo=c&logoColor=white) 
- ![C++](https://img.shields.io/badge/-C++-%23E34F26.svg?style=for-the-badge&logo=c++&logoColor=white) ![Data Structure](https://img.shields.io/badge/-Data%20Structure-%23Clojure?style=for-the-badge&logo=datastructure&logoColor=white)
  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-%23Clojure?style=for-the-badge&logo=algorithms&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-%23Clojure?style=for-the-badge&logo=angular&logoColor=white)
