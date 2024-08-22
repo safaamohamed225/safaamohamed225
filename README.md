@@ -37,7 +37,9 @@
        ![Entity Framework](https://img.shields.io/badge/-ENTITY%20FRAMEWORK-%23E34F26.svg?style=for-the-badge&logo=entityframework&logoColor=white)
  ![C](https://img.shields.io/badge/-C-%23E34F26.svg?style=for-the-badge&logo=c&logoColor=white) 
  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ ![Data Structure](https://img.shields.io/badge/-Data%20Structue-%23Clojure?style=for-the-badge&logo=datastructue&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-%23Clojure?style=for-the-badge&logo=algorithms&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-%23Clojure?style=for-the-badge&logo=algorithms&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-%23Clojure?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23Clojure?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -46,6 +48,8 @@
 ![Design Pattern](https://img.shields.io/badge/-Design%20Pattern-%23Clojure?style=for-the-badge&logo=designpattern&logoColor=white)
 ![Solid Principles](https://img.shields.io/badge/-Solid%20Principles-%23Clojure?style=for-the-badge&logo=solidprinciple&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/-Clean%20Code-%23Clojure?style=for-the-badge&logo=cleancode&logoColor=white)
+![Operating System](https://img.shields.io/badge/-Operating%20System-%23Clojure?style=for-the-badge&logo=os&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-%23Clojure?style=for-the-badge&logo=networking&logoColor=white)
 
 
 # 📊 GitHub Stats:
