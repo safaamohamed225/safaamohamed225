@@ -58,6 +58,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safaamohamed225&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
+<p align="center">
+  <a href="https://github.com/safaamohamed225">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safaamohamed225
+&theme=radical" alt="Safaa's GitHub Contribution"/>
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
 
