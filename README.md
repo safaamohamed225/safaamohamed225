@@ -6,6 +6,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Graduated+from+ITI%3BBackend+Developer+with+ASP+Dot+Net%3B" alt="Typing SVG" />
   </a>
 </p>
+<br/>
+<hr>
+<hr>
 <p align="center">
   <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 16px; color: #6C757D;"></span>
 </p>
@@ -20,7 +23,7 @@
 
  🌱 I Finished FullStack Dot Net Track at ITI.
  🌱 I Finished Software Engineering Track at ITI.
- 🤔 I’m currently open for a **new job opportunity**, this is [MY Resume]([https://drive.google.com/file/d/1Q8WPY1ou0x-V60IWWMHdY4WuHQpxjtiH/view?usp=drivesdk]
+ 🤔 I’m currently open for a **new job opportunity**, this is [MY Resume]([https://drive.google.com/file/d/1Q8WPY1ou0x-V60IWWMHdY4WuHQpxjtiH/view?usp=drivesdk])
  
  </div>
 
