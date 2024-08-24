@@ -19,12 +19,11 @@
 
 <div align="center">
  
- 🔭 I studied at Information Technology Institute (ITI).
+ 🔭 I studied at Information Technology Institute (ITI).<br/>
 
- 🌱 I Finished FullStack Dot Net Track at ITI.
- 🌱 I Finished Software Engineering Track at ITI.
- 🤔 I’m currently open for a **new job opportunity**, this is [MY Resume]([https://drive.google.com/file/d/1Q8WPY1ou0x-V60IWWMHdY4WuHQpxjtiH/view?usp=drivesdk])
- 
+ 🌱 I Finished FullStack Dot Net Track at ITI.<br/>
+ 🌱 I Finished Software Engineering Track at ITI.<br/>
+ 🤔 I’m currently open for a **new job opportunity**, this is [MY Resume](https://drive.google.com/file/d/1QS_zViAtNWSRUcUxmp1uGbgHAGyRiGt-/view?usp=sharing)
  </div>
 
 ## 🏆 GitHub Trophies
