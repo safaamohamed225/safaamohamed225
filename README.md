@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safaa Mohamed</h1>
-<h3 align="center">🚀 Software Engineer || .Net Developer </h3> <br>
+ <br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -9,6 +9,20 @@
 <p align="center">
   <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 16px; color: #6C757D;"></span>
 </p>
+
+<h3 align="center">🚀 Software Engineer || .Net Developer </h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I studied at Information Technology Institute (ITI).
+
+ 🌱 I Finished FullStack Dot Net Track at ITI.
+ 🌱 I Finished Software Engineering Track at ITI.
+ 🤔 I’m currently open for a **new job opportunity**, this is [MY Resume]([https://drive.google.com/file/d/1Q8WPY1ou0x-V60IWWMHdY4WuHQpxjtiH/view?usp=drivesdk]
+ 
+ </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=safaamohamed225&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
