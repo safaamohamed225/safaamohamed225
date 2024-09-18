@@ -22,7 +22,7 @@
  🔭 I studied at Information Technology Institute (ITI).<br/>
  🌱 I Finished FullStack Dot Net Track at ITI.<br/>
  🌱 I Finished Software Engineering Track at ITI.<br/>
- 🤔 I’m currently open for a **new job opportunity**, this is [MY Resume](https://drive.google.com/file/d/1QS_zViAtNWSRUcUxmp1uGbgHAGyRiGt-/view?usp=sharing)
+ 🤔 I’m currently open for a **new job opportunity**
  </div>
 
 ## 🏆 GitHub Trophies
