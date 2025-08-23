@@ -98,13 +98,12 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safaamohamed225&theme=dracula&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safaamohamed225&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safaamohamed225&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safaamohamed225&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safaamohamed225&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 <br/>
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SafaaMohamed225&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
 
 <img src="https://raw.githubusercontent.com/pythondeveloper6/pythondeveloper6/output/snake.svg" alt="Snake animation" />
 
