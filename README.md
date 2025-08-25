@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Safaa Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Safaa Muhammad</h1>
  <br>
 
 <p align="center">
@@ -13,17 +13,22 @@
   <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 16px; color: #6C757D;"></span>
 </p>
 
-<h3 align="center">🚀 Software Engineer || .Net Developer </h3>
+<h3 align="center">🚀 Software Engineer | .NET Developer </h3>
+<p align="center">Passionate about .NET, Angular, React, and Cloud Solutions ☁️</p>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I studied at Information Technology Institute (ITI).<br/>
- 🌱 I Finished FullStack Dot Net Track at ITI.<br/>
- 🌱 I Finished Software Engineering Track at ITI.<br/>
- 🤔 I’m currently open for a **new job opportunity**
- </div>
+
+🎓 Studied **Computer Science** at Cairo University  
+🔭 Trained at the **Information Technology Institute (ITI)**  
+🌱 Completed the **Software Engineering Track** at ITI  
+🌱 Specialized in the **Full-Stack .NET Track** at ITI  
+💼 1 year of professional experience as a **Full-Stack .NET Developer** in software companies  
+🚀 Currently open for a **new job opportunity**  
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=safaamohamed225&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
