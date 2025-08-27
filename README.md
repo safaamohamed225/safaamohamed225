@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safaa Muhammad</h1>
  <br>
-
+ 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8CC84B&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Graduated+from+ITI%3BBackend+Developer+with+ASP+Dot+Net%3B" alt="Typing SVG" />
