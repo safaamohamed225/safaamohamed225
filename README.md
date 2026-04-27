@@ -24,7 +24,7 @@
 🔭 Trained at the **Information Technology Institute (ITI)**  
 🌱 Completed the **Software Engineering Track** at ITI  
 🌱 Specialized in the **Full-Stack .NET Track** at ITI  
-💼 2 years of professional experience as a **Full-Stack .NET Developer** in software companies  
+💼 1 year of professional experience as a **Full-Stack .NET Developer** in software companies  
 🚀 Currently open for a **new job opportunity**  
 
 </div>
